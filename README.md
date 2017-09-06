@@ -1,0 +1,1 @@
+"# SettingManager-and-gameSettings" 
